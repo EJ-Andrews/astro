@@ -3,12 +3,17 @@
     margin-inline: auto;
 }
 
-.primarynav {
-
-}
-
 head {
     border: 10px solid red;
+}
+
+.primarynav {
+    display: flex;
+}
+
+header img {
+    margin: 50px;
+    border: 10px dotted red;
 }
 
 footer {
